@@ -1,0 +1,13 @@
+
+streamlit
+openai
+pymupdf
+sentence-transformers
+transformers
+langchain-text-splitters
+langchain-groq
+chromadb
+rank-bm25
+numpy
+python-dotenv
+pytest
